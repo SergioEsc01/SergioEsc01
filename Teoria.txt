@@ -1,0 +1,24 @@
+Explica los siguientes conceptos con tus propias palabras.
+
+
+
+¿Que es un Arreglo?
+Un arreglo es una conjunto ordenado de datos 
+
+¿Que es un Objeto?
+Un objeto es una unidad que tiene almacenado uno/o varios datos con nombre y un valor determinado
+
+¿Que es una Variable?
+Una variable es algo que se puede sobreescribir
+
+¿Que Tipos de Variable hay, explica su uso y diferencias entre ellas?
+Hay 3 tipos: numerico, cadenas y booleano
+
+Numerico: solo almacena valores numericos
+Cadenas: representa valores en forma de texto
+Booleano:almacena el valor true o false
+
+¿Que es un Metodo?
+Un metodo es una funcion guardada en un objeto 
+
+
